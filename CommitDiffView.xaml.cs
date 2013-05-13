@@ -1,7 +1,7 @@
 ﻿/*
  * Copyright (C) 2009, Henon <meinrad.recheis@gmail.com>
  *
- * All rights reserved.
+ * All rights reserved.111
  *
  * Redistribution and use in source and binary forms, with or
  * without modification, are permitted provided that the following
